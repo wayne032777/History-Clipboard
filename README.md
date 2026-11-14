@@ -1,6 +1,8 @@
-# 历史粘贴板
+# 历史粘贴板 / History-Clipboard
 
 一款仅在本机保存剪贴板历史的 Windows 桌面应用。支持文字、图片、图片文字识别、搜索、置顶、删除和自动清理。
+
+> A Windows desktop app where you can check your clipboard history and customize how many days to keep your clipboard content.
 
 ## 开始使用
 
