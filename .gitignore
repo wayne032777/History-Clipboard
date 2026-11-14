@@ -1,0 +1,25 @@
+# 构建产物
+bin/
+obj/
+dist/
+历史粘贴板-windows-x64/
+历史粘贴板-windows-x64.zip
+
+# 打包/压缩文件
+*.zip
+*.7z
+*.rar
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
